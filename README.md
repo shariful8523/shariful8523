@@ -1,7 +1,5 @@
+![A passionate frontend developer from Bangladesh](https://www.aceinfoway.com/blog/wp-content/uploads/2020/07/front-end-developer.jpg)
 ### Hi there 👋,  I'm MD SHARIFUL ISLAM
-
-![A passionate frontend developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 #### A passionate frontend developer from Bangladesh
 
 
