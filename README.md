@@ -1,6 +1,7 @@
+![A passionate frontend developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋,  I'm MD SHARIFUL ISLAM
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hi, I’m MD SHARIFUL ISLAM , a passionate front-end developer with a keen interest in coding. I love creating responsive and interactive web applications that provide a seamless user experience.
 
