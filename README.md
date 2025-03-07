@@ -3,7 +3,7 @@
 #### A passionate frontend developer from Bangladesh
 
 
-Hi, I’m MD SHARIFUL ISLAM , a passionate front-end developer with a keen interest in coding. I love creating responsive and interactive web applications that provide a seamless user experience.
+Hi, I’m MD.SHARIFUL ISLAM , a passionate front-end developer with a keen interest in coding. I love creating responsive and interactive web applications that provide a seamless user experience.
 
 Skills: REACT JS / JAVA SCRIPT / NODE.JS / EXPRESS.JS / MONGODB / HTML / CSS / TAILWIND CSS
 
