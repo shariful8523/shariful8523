@@ -1,4 +1,4 @@
-![A passionate frontend developer from Bangladesh]([https://www.aceinfoway.com/blog/wp-content/uploads/2020/07/front-end-developer.jpg](https://www.linkedin.com/in/shariful8523/overlay/background-image/))
+[![LinkedIn Banner](https://i.ibb.co/VczmXMq4/Llinkding-cover.jpg)](https://www.linkedin.com/in/shariful8523/)
 ### Hi there 👋,  I'm MD SHARIFUL ISLAM
 #### A passionate frontend developer from Bangladesh
 
