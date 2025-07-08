@@ -1,21 +1,82 @@
+
+
+
 [![LinkedIn Banner](https://i.ibb.co/VczmXMq4/Llinkding-cover.jpg)](https://www.linkedin.com/in/shariful8523/)
-### Hi there 👋,  I'm MD SHARIFUL ISLAM
-#### A passionate frontend developer from Bangladesh
+
+###  <div>  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **About Me**</div>
+### **Hi, My name is Md Shariful Islam** 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+MERN+stack+developer..!+;.)](https://git.io/typing-svg) <h4 align="left">skilled in React, Node.js, Firebase, and MongoDB. I specialize in creating modern, responsive, and user-friendly web applications. Constantly learning and improving, I love collaborating on innovative projects that solve real-world problems. Let's build something amazing together!</h4>
 
 
-Hi, I’m MD.SHARIFUL ISLAM , a passionate front-end developer with a keen interest in coding. I love creating responsive and interactive web applications that provide a seamless user experience.
-
-Skills: REACT JS / JAVA SCRIPT / NODE.JS / EXPRESS.JS / MONGODB / HTML / CSS / TAILWIND CSS
-
-- 🌱 I’m currently learning REACT JS 
-- 💬 Ask me about React.js , MongoDB , Tailwind-CSS , Node.js , Express.js  , JavaScript . 
-- 📫 How to reach me: mdsharifulislam8523@gmail.com 
-- ⚡ Fun fact: I think I am funny 
+- 🔭 &nbsp; I’m currently working on 
+- 🌱 &nbsp; I’m currently learning React js; 
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📚 &nbsp; When I am free, I enjoy playing Footbol and traveling.
+###
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shariful8523)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shariful8523/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sharifulislam852233)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariful8523)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shariful8523&show_icons=true)  
+## **My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">**
 
+<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+<img src="https://img.shields.io/badge/Firebase-0396de?style=for-the-badge&logo=firebase&logoColor=yellow" />&nbsp;
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/UI%20UX-4db5ff?style=for-the-badge&logo=&logoColor=4db5ff" />&nbsp;
+<br/>
+
+## **:wrench:**
+
+<img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;
+
+<br/>
+
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<div align="left">
+ <a href="https://www.linkedin.com/in/shariful8523/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+</a>
+  <a href="https://www.facebook.com/Sharifulislam852233" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdsharifulislam8523@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/8801307376982" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **my github stats &#8595;**
+ 
+ <br/>
+ 
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shariful8523&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br>
+  <br>
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shariful8523&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+   
+<br>
+<br>
+
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shariful8523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+ 
+
+
+###
+</div>
