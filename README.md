@@ -2,6 +2,7 @@
 
 
 [![LinkedIn Banner](https://i.ibb.co/VczmXMq4/Llinkding-cover.jpg)](https://www.linkedin.com/in/shariful8523/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
 
 ###  <div>  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **About Me**</div>
 ### **Hi, My name is Md Shariful Islam** 
